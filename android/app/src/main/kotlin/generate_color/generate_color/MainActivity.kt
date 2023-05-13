@@ -1,0 +1,6 @@
+package generate_color.generate_color
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
